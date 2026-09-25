@@ -57,3 +57,5 @@ npm run dev
 Use the above endpoints in Thunder Client or Postman with JSON body payloads.
 
 Example request bodies are included in the repository documentation.
+AI Blog NEST - API Demonstration video
+Drive link : https://drive.google.com/file/d/1LVPIsI6K4WsKPReIUuqu7632IjQ1cdXP/view?usp=drivesdk
